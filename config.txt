@@ -1,0 +1,25 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxf5b08abb3b542f75",
+# 公众号appSecret
+"app_secret": "d363d766d7d84c249dc592371c15fbb8",
+# 模板消息id
+"template_id": "2RqJj6a_3SfD6js5nZHnnWPcIUx416LAavm9_Jqv5xI ",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["obUpg5_GU3vK1QVmjlNMLbYxzcGQ,obUpg511b-FK4MeyenQTgO5gSOaI"],
+
+# 信息配置
+# 所在省份
+"province": "江苏",
+# 所在城市
+"city": "昆山 ",
+# 生日1
+"birthday1": {"name": "冉冉", "birthday": "r2001-10-09"},
+# 生日2
+"birthday1": {"name": "汪汪宝贝", "birthday": "r2001-01-23"},
+# 在一起的日子，格式同上
+"love_date": "2020-03-27",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"如果爱是海,我想应该是粉色海洋": "",
+}
